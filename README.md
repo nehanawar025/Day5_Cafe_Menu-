@@ -1,4 +1,4 @@
-# Day6_Business_card-
+# Day6-7_Business_card-
 
 This Is My Day 6-7 of  #100DaysofCode
 

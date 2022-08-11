@@ -1,0 +1,29 @@
+.pic{
+    width: 135px;   /*only width would do*/
+}
+body{
+    margin: 60px;
+}
+
+.card{
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    height: 250px;
+    display: flex;     /*display:flex is by default a display:block*/
+    justify-content: space-around;
+    padding:  30px;
+    
+    text-align: center;  /*inheritence*/
+    color: rgb(104, 4, 104);
+    background-color: rgb(255, 205, 227);
+    border-bottom: 5px solid rgb(243, 157, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dot_pink{
+    border: 1px dotted rgb(199, 111, 125);     /*Utility class*/
+}
+ 
+

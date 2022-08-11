@@ -1,7 +1,7 @@
-# Day6_Cafe_Menu-
+# Day6_Business_card-
 
-This Is My Day 6 of  #100DaysofCode
+This Is My Day 6-7 of  #100DaysofCode
 
-Today I will make a Cafe Menu with HTML and CSS.
+Today I will make a Business card with HTML and CSS.
 This will be from-
-freecodecamp -(New) Responsive Web Design.
+Scrimba - Build a digital business card.
